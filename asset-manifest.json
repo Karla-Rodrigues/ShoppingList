@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.cf73543a.chunk.css",
-    "main.js": "./static/js/main.43387a88.chunk.js",
-    "main.js.map": "./static/js/main.43387a88.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.a52200f9.js",
-    "runtime-main.js.map": "./static/js/runtime-main.a52200f9.js.map",
-    "static/css/2.f65acde2.chunk.css": "./static/css/2.f65acde2.chunk.css",
-    "static/js/2.3ed5bcb3.chunk.js": "./static/js/2.3ed5bcb3.chunk.js",
-    "static/js/2.3ed5bcb3.chunk.js.map": "./static/js/2.3ed5bcb3.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.d68f41cf7553de34ffc59373bd03de1e.js": "./precache-manifest.d68f41cf7553de34ffc59373bd03de1e.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.f65acde2.chunk.css.map": "./static/css/2.f65acde2.chunk.css.map",
-    "static/css/main.cf73543a.chunk.css.map": "./static/css/main.cf73543a.chunk.css.map",
-    "static/js/2.3ed5bcb3.chunk.js.LICENSE.txt": "./static/js/2.3ed5bcb3.chunk.js.LICENSE.txt",
-    "static/media/App.css": "./static/media/banner.5d03ceb5.jpg"
+    "main.css": ".https://karla-rodrigues.github.io/ShoppingList/static/css/main.cf73543a.chunk.css",
+    "main.js": ".https://karla-rodrigues.github.io/ShoppingList/static/js/main.d9c701ec.chunk.js",
+    "main.js.map": ".https://karla-rodrigues.github.io/ShoppingList/static/js/main.d9c701ec.chunk.js.map",
+    "runtime-main.js": ".https://karla-rodrigues.github.io/ShoppingList/static/js/runtime-main.5dc6d1d5.js",
+    "runtime-main.js.map": ".https://karla-rodrigues.github.io/ShoppingList/static/js/runtime-main.5dc6d1d5.js.map",
+    "static/css/2.f65acde2.chunk.css": ".https://karla-rodrigues.github.io/ShoppingList/static/css/2.f65acde2.chunk.css",
+    "static/js/2.3ed5bcb3.chunk.js": ".https://karla-rodrigues.github.io/ShoppingList/static/js/2.3ed5bcb3.chunk.js",
+    "static/js/2.3ed5bcb3.chunk.js.map": ".https://karla-rodrigues.github.io/ShoppingList/static/js/2.3ed5bcb3.chunk.js.map",
+    "index.html": ".https://karla-rodrigues.github.io/ShoppingList/index.html",
+    "precache-manifest.26f133465a00b95afafe05a3e7cd6c9f.js": ".https://karla-rodrigues.github.io/ShoppingList/precache-manifest.26f133465a00b95afafe05a3e7cd6c9f.js",
+    "service-worker.js": ".https://karla-rodrigues.github.io/ShoppingList/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": ".https://karla-rodrigues.github.io/ShoppingList/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.cf73543a.chunk.css.map": ".https://karla-rodrigues.github.io/ShoppingList/static/css/main.cf73543a.chunk.css.map",
+    "static/js/2.3ed5bcb3.chunk.js.LICENSE.txt": ".https://karla-rodrigues.github.io/ShoppingList/static/js/2.3ed5bcb3.chunk.js.LICENSE.txt",
+    "static/media/App.css": ".https://karla-rodrigues.github.io/ShoppingList/static/media/banner.5d03ceb5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a52200f9.js",
+    "static/js/runtime-main.5dc6d1d5.js",
     "static/css/2.f65acde2.chunk.css",
     "static/js/2.3ed5bcb3.chunk.js",
     "static/css/main.cf73543a.chunk.css",
-    "static/js/main.43387a88.chunk.js"
+    "static/js/main.d9c701ec.chunk.js"
   ]
 }
