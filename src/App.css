@@ -64,8 +64,12 @@ body{
 }
 
 .link-style:hover {
-  color: #00FF00;
+  color:#048004;
   text-decoration: none;
+}
+
+::placeholder {
+  color:#ff0000;
 }
 
 .btn-green {
@@ -78,7 +82,7 @@ body{
 }
 
 .btn-green:hover {
-  background: #00FF00;
+  background: #048004;
 }
 
 .page-list {
@@ -134,5 +138,5 @@ li a {
 }
 li a:hover {
   opacity: 0.75;
-  color: #00ff00;
+  color:#048004;
 }
