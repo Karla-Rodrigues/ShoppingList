@@ -27,7 +27,7 @@ class Banner extends Component {
                                     <div className="col-8">
                                           <h2><strong>Shopping</strong> List</h2>
                                           <h3>{Greats()} </h3>
-                                          <h3><Link className="link-style" to='/'>Home </Link> |
+                                          <h3><Link className="link-style" to='/ShoppingList'>Home </Link> |
                               <Link className="link-style" to='/about'> About</Link></h3>
                                     </div>
                                     <div className="col">

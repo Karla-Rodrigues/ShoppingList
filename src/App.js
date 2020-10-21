@@ -8,9 +8,9 @@ import About from './components/About'
 import Footer from './components/Footer';
 import { v4 as uuid } from 'uuid'
 
-
 class App extends Component {
   state = {
+
     todos: [
       {
         id: uuid(),
@@ -63,13 +63,16 @@ class App extends Component {
     this.setState({ todos: [...this.state.todos, newTodo] });
   }
 
+
   render() {
+    console.log(this.state);
+    console.log("This is the process.env", process.env.PUBLIC_URL)
     return (
       <Router>
         <div className='App'>
           <div className='container'>
 
-            <Route exact path='/' render={props => (
+            <Route exact path={'/ShoppingList'} render={props => (
               <React.Fragment>
                 <Banner />
                 <AddTodo addTodo={this.addTodo} />
@@ -81,7 +84,7 @@ class App extends Component {
                 <Footer />
               </React.Fragment>
             )} />
-            <Route path='/about' component={About} />
+            <Route exact path={'/about'} component={About} />
 
           </div>
         </div>
